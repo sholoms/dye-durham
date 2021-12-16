@@ -6,8 +6,8 @@ clone the repo to your device and use the following code in the cli from within 
 
 <i>(when the names to be sorted are in the unsorted-names.txt inside the app folder)</i>
 
-./gradlew run --args="unsorted-names.txt"
+`./gradlew run --args="unsorted-names.txt"`
 
-to run the tests use 
+to run the tests use: 
 
-./gradlew test
+`./gradlew test`
