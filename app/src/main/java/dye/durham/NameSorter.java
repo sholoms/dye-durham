@@ -45,7 +45,7 @@ public class NameSorter {
     if (listLength < 2) {
       return namesArray;
     }
-    // create 2 sub arrays to sort and then merge once sorted
+    // create 2 sub arrays to sort and then mergd
     String[] leftHalf = new String[listMiddle];
     String[] rightHalf = new String[listLength - listMiddle];
 
