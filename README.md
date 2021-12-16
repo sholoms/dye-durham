@@ -12,4 +12,4 @@ To run the tests use:
 
 `./gradlew test`
 
-Build and test are automatically run on all pull requests.
+Project uses GitHub Actions to run build and test automatically on all pull requests.
