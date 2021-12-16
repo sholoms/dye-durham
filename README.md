@@ -12,4 +12,6 @@ To run the tests use:
 
 `./gradlew test`
 
-Project uses GitHub Actions to run build and test automatically on all pull requests.
+#### Build Pipeline
+
+Project uses GitHub Actions to validate build and test automatically on all pull requests.
