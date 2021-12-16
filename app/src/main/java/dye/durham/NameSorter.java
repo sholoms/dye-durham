@@ -56,7 +56,7 @@ public class NameSorter {
       rightHalf[i - listMiddle] = namesArray[i];
     }
 
-    // merge sort the two sub arrays
+    // merge sort th
     mergeSort(leftHalf);
     mergeSort(rightHalf);
 
