@@ -60,7 +60,7 @@ public class NameSorter {
     mergeSort(leftHalf);
     mergeSort(rightHalf);
 
-    // merge the two sorted arrays
+    // merge the two sorted arrays into the original array
     merge(namesArray, leftHalf, rightHalf, listMiddle);
 
     return namesArray;
