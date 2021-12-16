@@ -37,7 +37,7 @@ public class NameSorter {
     return unsortednames.toArray(new String[unsortednames.size()]);
   }
 
-  // protected to allow it to be called in the tests
+  // protected to allow
   protected String[] mergeSort(String[] namesArray) {
     int listLength = namesArray.length;
     int listMiddle = listLength / 2;
