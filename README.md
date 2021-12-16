@@ -1,4 +1,4 @@
-///Dye and Durham Name sorting challenge.///
+### Dye and Durham Name sorting challenge.
 
 Run using gradle and pass in a txt file containing the names you want sorted as a command line argument.
 
